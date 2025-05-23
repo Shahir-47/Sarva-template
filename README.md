@@ -1,24 +1,35 @@
-# Sarva Delivery App - Sarva Bazaar
+# Sarva Delivery App – Public Template
 
-## Overview
+Welcome to the open template of the Sarva Bazaar delivery app!  
+This repo showcases the architecture, features, and sample code for Sarva, a real-world, full-stack grocery delivery platform for South Asian markets.
 
-Sarva Delivery is a comprehensive delivery platform connecting customers, vendors, and drivers. The application enables customers to browse products from local vendors, place orders, and have them delivered by independent drivers.
+**Note:**  
+This is a public template repo provided for demonstration, review, and learning. The live production app at [https://www.sarvabazaar.com](https://www.sarvabazaar.com) runs on a private codebase to ensure operational security.  
+You are free to explore, clone, and adapt this template. The source code for the actual deployed platform is not public.
 
-### Live Deployment
+---
 
-The application is live at [https://www.sarvabazaar.com](https://www.sarvabazaar.com)
+## 🚀 Live Deployment
 
-## Tech Stack
+Try the production version here: [https://www.sarvabazaar.com](https://www.sarvabazaar.com)  
+_Source code for the deployed app is private_
 
-- **Frontend**: Next.js 13+ (App Router), React, TypeScript, Tailwind CSS
-- **Backend**: Firebase (Authentication, Firestore, Storage)
-- **Payments**: Stripe
-- **Mapping/Location**: Google Maps API (address autocomplete, distance calculation, delivery time estimation, route visualization)
-- **Styling**: TailwindCSS with custom color schemes
+---
 
-## Project Structure
+## 🛠️ Tech Stack
+
+- **Frontend:** Next.js 13+ (App Router), React, TypeScript, Tailwind CSS
+- **Backend:** Firebase (Authentication, Firestore, Storage)
+- **Payments:** Stripe
+- **Mapping/Location:** Google Maps API (address autocomplete, distance calculation, route planning, delivery time estimation)
+- **Styling:** TailwindCSS with custom color schemes
+
+---
+
+## 📁 Project Structure
 
 ```
+
 src/
 ├── app/               # Next.js App Router pages
 │   ├── customer/      # Customer-facing routes
@@ -30,23 +41,28 @@ src/
 │   ├── driver/        # Driver-specific components
 │   ├── vendor/        # Vendor-specific components
 │   └── shared/        # Shared components used across roles
-├── firebase/          # Firebase configuration and service functions
+├── firebase/          # Firebase config and service functions
 ├── hooks/             # Custom React hooks
 ├── lib/               # Utility libraries
 ├── services/          # Service layer for API interactions
 ├── types/             # TypeScript type definitions
 └── utils/             # Utility functions
-```
 
-## Role-based Architecture
+````
 
-The app follows a role-based architecture with three distinct user types:
+---
 
-1. **Customers**: Users who browse products, place orders, and track deliveries
-2. **Vendors**: Businesses that list products, manage inventory, and process orders
-3. **Drivers**: Independent contractors who deliver orders from vendors to customers
+## 👤 Role-based Architecture
 
-## Getting Started
+Sarva supports three distinct user roles:
+
+1. **Customers:** Browse products, place orders, track deliveries
+2. **Vendors:** List/manage products, process orders, manage business profile
+3. **Drivers:** Accept and deliver orders, manage earnings and profile
+
+---
+
+## 🏁 Getting Started
 
 ### Prerequisites
 
@@ -54,15 +70,11 @@ The app follows a role-based architecture with three distinct user types:
 - npm or yarn
 - Firebase account
 - Stripe account
-- HERE Maps API key
-
-### Live Application
-
-You can explore the live application at [https://www.sarvabazaar.com](https://www.sarvabazaar.com) to understand how the features work in production.
+- Google Maps API key
 
 ### Environment Setup
 
-Create a `.env.local` file in the root directory with the following variables:
+Create a `.env.local` file in the root with:
 
 ```env
 # Firebase 
@@ -82,16 +94,17 @@ NEXT_PUBLIC_APP_URL=http://localhost:3000/
 
 # Location Services
 GOOGLE_MAPS_API_KEY=your_google_maps_api_key
-```
+````
 
-> ⚠️ **Security Note**: Never commit your actual API keys to the repository. Use environment variables for local development and secure environment configuration for production deployments.
+> ⚠️ **Never commit your real API keys to any public repo.**
+> Use environment variables for local dev, and configure secrets securely for production.
 
 ### Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/your-organization/sarva-delivery.git
-cd sarva-delivery
+# Clone the repo
+git clone https://github.com/YOUR-USERNAME/sarva-template.git
+cd sarva-template
 
 # Install dependencies
 npm install
@@ -106,69 +119,73 @@ yarn dev
 
 Visit `http://localhost:3000` to view the app.
 
-## Authentication Flow
+---
 
-Sarva uses Firebase Authentication with custom hooks for each user role:
+## 🔒 Authentication Flow
 
-- `useAuth.tsx` - For customers
-- `useVendorAuth.tsx` - For vendors
-- `useDriverAuth.tsx` - For drivers
+Sarva uses Firebase Auth with custom React hooks for each user role:
+
+* `useAuth.tsx` – Customers
+* `useVendorAuth.tsx` – Vendors
+* `useDriverAuth.tsx` – Drivers
 
 Each hook manages:
-- Authentication state
-- User profile data
-- Loading states
-- Error handling
 
-## Key Features
+* Authentication state
+* User profile data
+* Loading and error states
+
+---
+
+## ✨ Key Features
 
 ### Customer Portal
 
-- Browse vendors and products
-- Add items to cart
-- Place orders with multiple payment options
-- Track order status in real-time
-- View order history
+* Browse vendors and products
+* Add to cart and place orders (multiple payment options)
+* Track order status in real-time
+* View order history
 
 ### Vendor Portal
 
-- Dashboard with key business metrics
-- Inventory management (add, edit, delete products)
-- Order management (view, prepare, mark as ready)
-- Business profile settings
+* Dashboard with key metrics
+* Inventory management (add, edit, delete products)
+* Order management (view, prepare, mark as ready)
+* Profile/business settings
 
 ### Driver Portal
 
-- View available delivery opportunities
-- Accept deliveries
-- Track earnings and completed deliveries
-- Profile and vehicle information management
+* See available delivery jobs
+* Accept and track deliveries
+* Earnings dashboard and delivery history
+* Manage profile and vehicle info
 
-## Database Structure
+---
 
-Sarva uses Firestore with the following main collections:
+## 🗄️ Database Structure
 
-- `users` - Customer accounts and profile data
-- `vendors` - Vendor accounts and business data
-- `drivers` - Driver accounts and profile data
-- `inventory` - Product listings from vendors
-- `orders` - Order details and status
-- `driverTransactions` - Driver delivery history and earnings
+Sarva uses Firestore with these core collections:
 
-## Common Tasks
+* `users` – Customer accounts and profiles
+* `vendors` – Vendor business data
+* `drivers` – Driver profiles
+* `inventory` – Product listings
+* `orders` – Orders and status
+* `driverTransactions` – Delivery records and earnings
+
+---
+
+## 🧑‍💻 Common Tasks
 
 ### Adding a New Component
 
-1. Create your component in the appropriate directory under `src/components/`
-2. Export the component
-3. Import and use in your page or other components
+1. Create your component under `src/components/`
+2. Export it
+3. Import and use where needed
 
-### Firebase Data Access
-
-Use the service functions in the `src/firebase/` directory:
+### Firebase Data Access Example
 
 ```typescript
-// Example: Fetching vendor inventory
 import { getVendorInventoryItems } from "@/firebase/inventory";
 
 const result = await getVendorInventoryItems(vendorId);
@@ -178,59 +195,55 @@ if (result.success) {
 }
 ```
 
-### Authentication
-
-Use the appropriate hook for the user role:
+### Authentication Example
 
 ```typescript
-// For customers
 import { useAuth } from "@/hooks/useAuth";
 
 function MyComponent() {
   const { user, userData, loading } = useAuth();
-  
+
   if (loading) return <LoadingScreen />;
   if (!user) return <NotAuthenticated />;
-  
+
   return <YourComponent userData={userData} />;
 }
 
-// Similar usage for useVendorAuth and useDriverAuth
+// Similar pattern for useVendorAuth and useDriverAuth
 ```
 
-## Order Flow
+---
+
+## 🔄 Order & Payment Flow
 
 1. **Customer** creates an order
-2. **Vendor** receives the order and marks it as "ready for pickup"
-3. **Driver** accepts the delivery and marks when picked up
-4. **Driver** completes delivery and marks as "delivered"
-5. **Customer** receives delivery and can leave feedback
+2. **Vendor** processes and marks as “ready for pickup”
+3. **Driver** accepts, picks up, and marks as delivered
+4. **Customer** receives delivery, can leave feedback
 
-## Payment Processing
+Payments use Stripe with a split flow:
 
-Sarva uses Stripe for payments with a split payment flow:
+* Customer pays
+* Payment is held until delivery is confirmed
+* Split payout between vendor and driver
 
-1. Customer makes payment
-2. System holds payment until delivery confirmation
-3. Payment is split between vendor and driver based on configured rates
+---
 
-## Working with Location Services
-
-The app uses a combination of mapping services:
+## 🗺️ Working with Location Services
 
 ### Google Maps API
-- Address autocomplete and geocoding
-- Distance calculation
-- Delivery time estimation
 
-### HERE Maps API
-- Route visualization on the driver and customer interfaces
+* Address autocomplete and geocoding
+* Distance and delivery time calculation
+* Route visualization for drivers and customers
 
-Make sure both API keys are properly configured in your environment variables.
+Make sure API keys are in your `.env.local`.
 
-## Deployment
+---
 
-The application can be deployed on Vercel or any platform supporting Next.js:
+## ☁️ Deployment
+
+Deploy to Vercel or any Next.js-friendly platform:
 
 ```bash
 # Build for production
@@ -244,38 +257,50 @@ npm start
 yarn start
 ```
 
-## Troubleshooting
+---
 
-### Firebase Connection Issues
+## 🛠️ Troubleshooting
 
-- Check your Firebase credentials in `.env.local`
-- Ensure the Firebase project has Firestore and Authentication enabled
-- Check Firebase console for any service disruptions
+### Firebase Issues
 
-### Map Integration Problems
+* Double-check your `.env.local`
+* Ensure Firebase project has Firestore and Auth enabled
+* Check Firebase Console for service disruptions
 
-- Verify your HERE Maps API key is correct
-- Check request quotas in the HERE Developer Portal
-- Ensure the Maps JavaScript API is loaded properly
+### Map/API Issues
 
-### Authentication Errors
+* Check your API keys and quotas
+* Ensure Maps API is loaded properly
 
-- Clear browser cookies and local storage
-- Check if the user exists in Firebase Authentication
-- Verify email verification settings if applicable
+### Auth Errors
 
-## Contributing
+* Clear cookies/localStorage
+* Check if user exists in Firebase Auth
+* Verify email settings
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
+---
+
+## 🤝 Contributing
+
+1. Fork this repo
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes
+4. Push to your branch
 5. Open a Pull Request
 
-## License
+---
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 📄 License
 
-## Contact
+MIT License – see [LICENSE](LICENSE) for details
 
-For questions or support, please contact the team through the [Sarva Bazaar website](https://www.sarvabazaar.com) or open an issue in the GitHub repository.
+---
+
+## 📬 Contact
+
+For questions or support, use [Sarva Bazaar website](https://www.sarvabazaar.com)
+or open an issue in this repository.
+
+---
+
+*This template is for demo/learning only. The deployed version at [sarvabazaar.com](https://www.sarvabazaar.com) uses a private repository for security.*
