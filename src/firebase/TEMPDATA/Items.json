@@ -1,0 +1,1302 @@
+[
+  {
+    "itemID": "item1",
+    "name": "Instrument1",
+    "description": "Durable instrument1 for all your needs.",
+    "price": 234,
+    "units": 99,
+    "vendorID": "vendor6",
+    "image": "/image14.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item2",
+    "name": "Widget2",
+    "description": "Durable widget2 for all your needs.",
+    "price": 575,
+    "units": 47,
+    "vendorID": "vendor3",
+    "image": "/image20.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item3",
+    "name": "Accessory3",
+    "description": "Compact accessory3 for all your needs.",
+    "price": 491,
+    "units": 100,
+    "vendorID": "vendor2",
+    "image": "/image3.jpeg",
+    "tags": [
+      "tech",
+      "home"
+    ]
+  },
+  {
+    "itemID": "item4",
+    "name": "Instrument4",
+    "description": "High quality instrument4 for all your needs.",
+    "price": 176,
+    "units": null,
+    "vendorID": "vendor3",
+    "image": "/image3.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item5",
+    "name": "Tool5",
+    "description": "Advanced tool5 for all your needs.",
+    "price": 573,
+    "units": 87,
+    "vendorID": "vendor5",
+    "image": "/image12.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item6",
+    "name": "Widget6",
+    "description": "Lightweight widget6 for all your needs.",
+    "price": 716,
+    "units": 35,
+    "vendorID": "vendor4",
+    "image": "/image20.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item7",
+    "name": "Accessory7",
+    "description": "Advanced accessory7 for all your needs.",
+    "price": 195,
+    "units": 30,
+    "vendorID": "vendor10",
+    "image": "/image13.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item8",
+    "name": "Accessory8",
+    "description": "Compact accessory8 for all your needs.",
+    "price": 192,
+    "units": 41,
+    "vendorID": "vendor4",
+    "image": "/image14.jpeg",
+    "tags": [
+      "office",
+      "gadget"
+    ]
+  },
+  {
+    "itemID": "item9",
+    "name": "Gadget9",
+    "description": "Lightweight gadget9 for all your needs.",
+    "price": 649,
+    "units": 28,
+    "vendorID": "vendor7",
+    "image": "/image8.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item10",
+    "name": "Widget10",
+    "description": "Durable widget10 for all your needs.",
+    "price": 275,
+    "units": 79,
+    "vendorID": "vendor5",
+    "image": "/image5.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item11",
+    "name": "Accessory11",
+    "description": "Compact accessory11 for all your needs.",
+    "price": 545,
+    "units": 55,
+    "vendorID": "vendor3",
+    "image": "/image18.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item12",
+    "name": "Device12",
+    "description": "High quality device12 for all your needs.",
+    "price": 351,
+    "units": 77,
+    "vendorID": "vendor8",
+    "image": "/image13.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item13",
+    "name": "Accessory13",
+    "description": "High quality accessory13 for all your needs.",
+    "price": 439,
+    "units": 80,
+    "vendorID": "vendor1",
+    "image": "/image19.jpeg",
+    "tags": [
+      "office",
+      "gadget"
+    ]
+  },
+  {
+    "itemID": "item14",
+    "name": "Tool14",
+    "description": "Advanced tool14 for all your needs.",
+    "price": 230,
+    "units": 7,
+    "vendorID": "vendor8",
+    "image": "/image3.jpeg",
+    "tags": [
+      "office",
+      "gadget"
+    ]
+  },
+  {
+    "itemID": "item15",
+    "name": "Accessory15",
+    "description": "Eco-friendly accessory15 for all your needs.",
+    "price": 370,
+    "units": 94,
+    "vendorID": "vendor8",
+    "image": "/image8.jpeg",
+    "tags": [
+      "tech",
+      "home"
+    ]
+  },
+  {
+    "itemID": "item16",
+    "name": "Tool16",
+    "description": "Lightweight tool16 for all your needs.",
+    "price": 361,
+    "units": 54,
+    "vendorID": "vendor8",
+    "image": "/image7.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item17",
+    "name": "Instrument17",
+    "description": "Durable instrument17 for all your needs.",
+    "price": 795,
+    "units": 18,
+    "vendorID": "vendor5",
+    "image": "/image8.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item18",
+    "name": "Gadget18",
+    "description": "Compact gadget18 for all your needs.",
+    "price": 366,
+    "units": 96,
+    "vendorID": "vendor6",
+    "image": "/image8.jpeg",
+    "tags": [
+      "tech",
+      "home"
+    ]
+  },
+  {
+    "itemID": "item19",
+    "name": "Device19",
+    "description": "Advanced device19 for all your needs.",
+    "price": 979,
+    "units": 51,
+    "vendorID": "vendor6",
+    "image": "/image8.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item20",
+    "name": "Widget20",
+    "description": "Compact widget20 for all your needs.",
+    "price": 601,
+    "units": 19,
+    "vendorID": "vendor6",
+    "image": "/image19.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item21",
+    "name": "Tool21",
+    "description": "Advanced tool21 for all your needs.",
+    "price": 66,
+    "units": 80,
+    "vendorID": "vendor3",
+    "image": "/image2.jpeg",
+    "tags": [
+      "office",
+      "gadget"
+    ]
+  },
+  {
+    "itemID": "item22",
+    "name": "Widget22",
+    "description": "Advanced widget22 for all your needs.",
+    "price": 547,
+    "units": 15,
+    "vendorID": "vendor9",
+    "image": "/image19.jpeg",
+    "tags": [
+      "tech",
+      "home"
+    ]
+  },
+  {
+    "itemID": "item23",
+    "name": "Device23",
+    "description": "Advanced device23 for all your needs.",
+    "price": 293,
+    "units": 70,
+    "vendorID": "vendor4",
+    "image": "/image17.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item24",
+    "name": "Accessory24",
+    "description": "Lightweight accessory24 for all your needs.",
+    "price": 926,
+    "units": 67,
+    "vendorID": "vendor9",
+    "image": "/image17.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item25",
+    "name": "Accessory25",
+    "description": "Durable accessory25 for all your needs.",
+    "price": 540,
+    "units": 49,
+    "vendorID": "vendor6",
+    "image": "/image19.jpeg",
+    "tags": [
+      "office",
+      "gadget"
+    ]
+  },
+  {
+    "itemID": "item26",
+    "name": "Accessory26",
+    "description": "High quality accessory26 for all your needs.",
+    "price": 963,
+    "units": 5,
+    "vendorID": "vendor8",
+    "image": "/image19.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item27",
+    "name": "Instrument27",
+    "description": "Compact instrument27 for all your needs.",
+    "price": 971,
+    "units": 35,
+    "vendorID": "vendor8",
+    "image": "/image8.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item28",
+    "name": "Instrument28",
+    "description": "High quality instrument28 for all your needs.",
+    "price": 794,
+    "units": 42,
+    "vendorID": "vendor8",
+    "image": "/image20.jpeg",
+    "tags": [
+      "office",
+      "gadget"
+    ]
+  },
+  {
+    "itemID": "item29",
+    "name": "Gadget29",
+    "description": "Durable gadget29 for all your needs.",
+    "price": 614,
+    "units": 17,
+    "vendorID": "vendor1",
+    "image": "/image1.jpeg",
+    "tags": [
+      "office",
+      "gadget"
+    ]
+  },
+  {
+    "itemID": "item30",
+    "name": "Device30",
+    "description": "Lightweight device30 for all your needs.",
+    "price": 661,
+    "units": 31,
+    "vendorID": "vendor5",
+    "image": "/image5.jpeg",
+    "tags": [
+      "tech",
+      "home"
+    ]
+  },
+  {
+    "itemID": "item31",
+    "name": "Gadget31",
+    "description": "Eco-friendly gadget31 for all your needs.",
+    "price": 252,
+    "units": 60,
+    "vendorID": "vendor10",
+    "image": "/image14.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item32",
+    "name": "Device32",
+    "description": "Advanced device32 for all your needs.",
+    "price": 202,
+    "units": 99,
+    "vendorID": "vendor5",
+    "image": "/image16.jpeg",
+    "tags": [
+      "office",
+      "gadget"
+    ]
+  },
+  {
+    "itemID": "item33",
+    "name": "Widget33",
+    "description": "Eco-friendly widget33 for all your needs.",
+    "price": 549,
+    "units": 5,
+    "vendorID": "vendor9",
+    "image": "/image1.jpeg",
+    "tags": [
+      "tech",
+      "home"
+    ]
+  },
+  {
+    "itemID": "item34",
+    "name": "Gadget34",
+    "description": "Compact gadget34 for all your needs.",
+    "price": 876,
+    "units": 69,
+    "vendorID": "vendor2",
+    "image": "/image15.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item35",
+    "name": "Device35",
+    "description": "Durable device35 for all your needs.",
+    "price": 628,
+    "units": 49,
+    "vendorID": "vendor4",
+    "image": "/image1.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item36",
+    "name": "Instrument36",
+    "description": "Eco-friendly instrument36 for all your needs.",
+    "price": 738,
+    "units": 46,
+    "vendorID": "vendor6",
+    "image": "/image10.jpeg",
+    "tags": [
+      "office",
+      "gadget"
+    ]
+  },
+  {
+    "itemID": "item37",
+    "name": "Accessory37",
+    "description": "Advanced accessory37 for all your needs.",
+    "price": 241,
+    "units": 1,
+    "vendorID": "vendor10",
+    "image": "/image16.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item38",
+    "name": "Device38",
+    "description": "Durable device38 for all your needs.",
+    "price": 700,
+    "units": 66,
+    "vendorID": "vendor6",
+    "image": "/image11.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item39",
+    "name": "Widget39",
+    "description": "Durable widget39 for all your needs.",
+    "price": 771,
+    "units": 9,
+    "vendorID": "vendor9",
+    "image": "/image16.jpeg",
+    "tags": [
+      "tech",
+      "home"
+    ]
+  },
+  {
+    "itemID": "item40",
+    "name": "Device40",
+    "description": "Durable device40 for all your needs.",
+    "price": 60,
+    "units": 31,
+    "vendorID": "vendor2",
+    "image": "/image8.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item41",
+    "name": "Gadget41",
+    "description": "Durable gadget41 for all your needs.",
+    "price": 286,
+    "units": 41,
+    "vendorID": "vendor3",
+    "image": "/image3.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item42",
+    "name": "Tool42",
+    "description": "High quality tool42 for all your needs.",
+    "price": 408,
+    "units": 75,
+    "vendorID": "vendor7",
+    "image": "/image9.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item43",
+    "name": "Widget43",
+    "description": "Lightweight widget43 for all your needs.",
+    "price": 441,
+    "units": 50,
+    "vendorID": "vendor9",
+    "image": "/image16.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item44",
+    "name": "Accessory44",
+    "description": "Compact accessory44 for all your needs.",
+    "price": 517,
+    "units": 36,
+    "vendorID": "vendor2",
+    "image": "/image17.jpeg",
+    "tags": [
+      "office",
+      "gadget"
+    ]
+  },
+  {
+    "itemID": "item45",
+    "name": "Instrument45",
+    "description": "Eco-friendly instrument45 for all your needs.",
+    "price": 155,
+    "units": 73,
+    "vendorID": "vendor10",
+    "image": "/image11.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item46",
+    "name": "Tool46",
+    "description": "Lightweight tool46 for all your needs.",
+    "price": 529,
+    "units": 6,
+    "vendorID": "vendor7",
+    "image": "/image4.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item47",
+    "name": "Tool47",
+    "description": "Lightweight tool47 for all your needs.",
+    "price": 153,
+    "units": 62,
+    "vendorID": "vendor3",
+    "image": "/image7.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item48",
+    "name": "Instrument48",
+    "description": "Durable instrument48 for all your needs.",
+    "price": 818,
+    "units": 100,
+    "vendorID": "vendor5",
+    "image": "/image9.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item49",
+    "name": "Instrument49",
+    "description": "Compact instrument49 for all your needs.",
+    "price": 786,
+    "units": 77,
+    "vendorID": "vendor10",
+    "image": "/image11.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item50",
+    "name": "Gadget50",
+    "description": "High quality gadget50 for all your needs.",
+    "price": 86,
+    "units": 15,
+    "vendorID": "vendor7",
+    "image": "/image7.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item51",
+    "name": "Device51",
+    "description": "Lightweight device51 for all your needs.",
+    "price": 61,
+    "units": 52,
+    "vendorID": "vendor3",
+    "image": "/image14.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item52",
+    "name": "Tool52",
+    "description": "Compact tool52 for all your needs.",
+    "price": 561,
+    "units": 49,
+    "vendorID": "vendor6",
+    "image": "/image9.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item53",
+    "name": "Instrument53",
+    "description": "Lightweight instrument53 for all your needs.",
+    "price": 490,
+    "units": 45,
+    "vendorID": "vendor6",
+    "image": "/image13.jpeg",
+    "tags": [
+      "tech",
+      "home"
+    ]
+  },
+  {
+    "itemID": "item54",
+    "name": "Gadget54",
+    "description": "Lightweight gadget54 for all your needs.",
+    "price": 595,
+    "units": 46,
+    "vendorID": "vendor3",
+    "image": "/image13.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item55",
+    "name": "Accessory55",
+    "description": "Durable accessory55 for all your needs.",
+    "price": 803,
+    "units": 8,
+    "vendorID": "vendor8",
+    "image": "/image18.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item56",
+    "name": "Device56",
+    "description": "Eco-friendly device56 for all your needs.",
+    "price": 517,
+    "units": 69,
+    "vendorID": "vendor7",
+    "image": "/image4.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item57",
+    "name": "Device57",
+    "description": "High quality device57 for all your needs.",
+    "price": 210,
+    "units": 25,
+    "vendorID": "vendor1",
+    "image": "/image4.jpeg",
+    "tags": [
+      "office",
+      "gadget"
+    ]
+  },
+  {
+    "itemID": "item58",
+    "name": "Instrument58",
+    "description": "Compact instrument58 for all your needs.",
+    "price": 666,
+    "units": 27,
+    "vendorID": "vendor1",
+    "image": "/image7.jpeg",
+    "tags": [
+      "office",
+      "gadget"
+    ]
+  },
+  {
+    "itemID": "item59",
+    "name": "Widget59",
+    "description": "High quality widget59 for all your needs.",
+    "price": 206,
+    "units": 88,
+    "vendorID": "vendor2",
+    "image": "/image18.jpeg",
+    "tags": [
+      "tech",
+      "home"
+    ]
+  },
+  {
+    "itemID": "item60",
+    "name": "Device60",
+    "description": "High quality device60 for all your needs.",
+    "price": 773,
+    "units": 36,
+    "vendorID": "vendor7",
+    "image": "/image10.jpeg",
+    "tags": [
+      "tech",
+      "home"
+    ]
+  },
+  {
+    "itemID": "item61",
+    "name": "Device61",
+    "description": "Lightweight device61 for all your needs.",
+    "price": 779,
+    "units": 75,
+    "vendorID": "vendor10",
+    "image": "/image13.jpeg",
+    "tags": [
+      "office",
+      "gadget"
+    ]
+  },
+  {
+    "itemID": "item62",
+    "name": "Accessory62",
+    "description": "Advanced accessory62 for all your needs.",
+    "price": 878,
+    "units": 35,
+    "vendorID": "vendor4",
+    "image": "/image11.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item63",
+    "name": "Accessory63",
+    "description": "Eco-friendly accessory63 for all your needs.",
+    "price": 277,
+    "units": 84,
+    "vendorID": "vendor4",
+    "image": "/image15.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item64",
+    "name": "Device64",
+    "description": "Eco-friendly device64 for all your needs.",
+    "price": 654,
+    "units": 97,
+    "vendorID": "vendor4",
+    "image": "/image2.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item65",
+    "name": "Instrument65",
+    "description": "Eco-friendly instrument65 for all your needs.",
+    "price": 468,
+    "units": 70,
+    "vendorID": "vendor8",
+    "image": "/image9.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item66",
+    "name": "Instrument66",
+    "description": "Lightweight instrument66 for all your needs.",
+    "price": 782,
+    "units": 97,
+    "vendorID": "vendor5",
+    "image": "/image12.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item67",
+    "name": "Device67",
+    "description": "Durable device67 for all your needs.",
+    "price": 915,
+    "units": 38,
+    "vendorID": "vendor1",
+    "image": "/image11.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item68",
+    "name": "Widget68",
+    "description": "Lightweight widget68 for all your needs.",
+    "price": 414,
+    "units": 7,
+    "vendorID": "vendor6",
+    "image": "/image3.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item69",
+    "name": "Accessory69",
+    "description": "High quality accessory69 for all your needs.",
+    "price": 239,
+    "units": 1,
+    "vendorID": "vendor3",
+    "image": "/image9.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item70",
+    "name": "Device70",
+    "description": "Durable device70 for all your needs.",
+    "price": 248,
+    "units": 27,
+    "vendorID": "vendor9",
+    "image": "/image5.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item71",
+    "name": "Widget71",
+    "description": "High quality widget71 for all your needs.",
+    "price": 715,
+    "units": 89,
+    "vendorID": "vendor6",
+    "image": "/image2.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item72",
+    "name": "Instrument72",
+    "description": "Advanced instrument72 for all your needs.",
+    "price": 72,
+    "units": 97,
+    "vendorID": "vendor9",
+    "image": "/image10.jpeg",
+    "tags": [
+      "office",
+      "gadget"
+    ]
+  },
+  {
+    "itemID": "item73",
+    "name": "Tool73",
+    "description": "Eco-friendly tool73 for all your needs.",
+    "price": 572,
+    "units": 28,
+    "vendorID": "vendor10",
+    "image": "/image8.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item74",
+    "name": "Tool74",
+    "description": "Durable tool74 for all your needs.",
+    "price": 761,
+    "units": 20,
+    "vendorID": "vendor6",
+    "image": "/image16.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item75",
+    "name": "Accessory75",
+    "description": "Durable accessory75 for all your needs.",
+    "price": 708,
+    "units": 81,
+    "vendorID": "vendor3",
+    "image": "/image17.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item76",
+    "name": "Instrument76",
+    "description": "Advanced instrument76 for all your needs.",
+    "price": 880,
+    "units": 69,
+    "vendorID": "vendor7",
+    "image": "/image20.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item77",
+    "name": "Widget77",
+    "description": "Advanced widget77 for all your needs.",
+    "price": 531,
+    "units": 39,
+    "vendorID": "vendor1",
+    "image": "/image8.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item78",
+    "name": "Tool78",
+    "description": "High quality tool78 for all your needs.",
+    "price": 169,
+    "units": 74,
+    "vendorID": "vendor6",
+    "image": "/image14.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item79",
+    "name": "Device79",
+    "description": "Eco-friendly device79 for all your needs.",
+    "price": 350,
+    "units": 47,
+    "vendorID": "vendor8",
+    "image": "/image19.jpeg",
+    "tags": [
+      "office",
+      "gadget"
+    ]
+  },
+  {
+    "itemID": "item80",
+    "name": "Device80",
+    "description": "Compact device80 for all your needs.",
+    "price": 290,
+    "units": 55,
+    "vendorID": "vendor6",
+    "image": "/image15.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item81",
+    "name": "Device81",
+    "description": "Lightweight device81 for all your needs.",
+    "price": 724,
+    "units": 65,
+    "vendorID": "vendor10",
+    "image": "/image8.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item82",
+    "name": "Gadget82",
+    "description": "Durable gadget82 for all your needs.",
+    "price": 762,
+    "units": 18,
+    "vendorID": "vendor1",
+    "image": "/image3.jpeg",
+    "tags": [
+      "office",
+      "gadget"
+    ]
+  },
+  {
+    "itemID": "item83",
+    "name": "Gadget83",
+    "description": "Eco-friendly gadget83 for all your needs.",
+    "price": 375,
+    "units": 58,
+    "vendorID": "vendor5",
+    "image": "/image3.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item84",
+    "name": "Instrument84",
+    "description": "Compact instrument84 for all your needs.",
+    "price": 869,
+    "units": 43,
+    "vendorID": "vendor7",
+    "image": "/image11.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item85",
+    "name": "Gadget85",
+    "description": "Compact gadget85 for all your needs.",
+    "price": 133,
+    "units": 76,
+    "vendorID": "vendor5",
+    "image": "/image13.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item86",
+    "name": "Gadget86",
+    "description": "Advanced gadget86 for all your needs.",
+    "price": 338,
+    "units": 15,
+    "vendorID": "vendor2",
+    "image": "/image4.jpeg",
+    "tags": [
+      "tech",
+      "home"
+    ]
+  },
+  {
+    "itemID": "item87",
+    "name": "Gadget87",
+    "description": "Durable gadget87 for all your needs.",
+    "price": 250,
+    "units": 90,
+    "vendorID": "vendor2",
+    "image": "/image14.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item88",
+    "name": "Widget88",
+    "description": "Eco-friendly widget88 for all your needs.",
+    "price": 437,
+    "units": 55,
+    "vendorID": "vendor4",
+    "image": "/image5.jpeg",
+    "tags": [
+      "office",
+      "gadget"
+    ]
+  },
+  {
+    "itemID": "item89",
+    "name": "Instrument89",
+    "description": "Durable instrument89 for all your needs.",
+    "price": 970,
+    "units": 89,
+    "vendorID": "vendor8",
+    "image": "/image5.jpeg",
+    "tags": [
+      "tech",
+      "home"
+    ]
+  },
+  {
+    "itemID": "item90",
+    "name": "Gadget90",
+    "description": "Eco-friendly gadget90 for all your needs.",
+    "price": 708,
+    "units": 31,
+    "vendorID": "vendor2",
+    "image": "/image2.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item91",
+    "name": "Accessory91",
+    "description": "Durable accessory91 for all your needs.",
+    "price": 63,
+    "units": 26,
+    "vendorID": "vendor9",
+    "image": "/image15.jpeg",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "itemID": "item92",
+    "name": "Tool92",
+    "description": "High quality tool92 for all your needs.",
+    "price": 943,
+    "units": 32,
+    "vendorID": "vendor3",
+    "image": "/image2.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item93",
+    "name": "Widget93",
+    "description": "Eco-friendly widget93 for all your needs.",
+    "price": 323,
+    "units": 69,
+    "vendorID": "vendor5",
+    "image": "/image16.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item94",
+    "name": "Widget94",
+    "description": "Eco-friendly widget94 for all your needs.",
+    "price": 619,
+    "units": 38,
+    "vendorID": "vendor6",
+    "image": "/image12.jpeg",
+    "tags": [
+      "tech",
+      "home"
+    ]
+  },
+  {
+    "itemID": "item95",
+    "name": "Gadget95",
+    "description": "Compact gadget95 for all your needs.",
+    "price": 196,
+    "units": 84,
+    "vendorID": "vendor4",
+    "image": "/image9.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item96",
+    "name": "Gadget96",
+    "description": "Lightweight gadget96 for all your needs.",
+    "price": 781,
+    "units": 13,
+    "vendorID": "vendor4",
+    "image": "/image7.jpeg",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "itemID": "item97",
+    "name": "Device97",
+    "description": "Durable device97 for all your needs.",
+    "price": 588,
+    "units": 74,
+    "vendorID": "vendor5",
+    "image": "/image12.jpeg",
+    "tags": [
+      "tech",
+      "home"
+    ]
+  },
+  {
+    "itemID": "item98",
+    "name": "Gadget98",
+    "description": "High quality gadget98 for all your needs.",
+    "price": 349,
+    "units": 26,
+    "vendorID": "vendor4",
+    "image": "/image16.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item99",
+    "name": "Accessory99",
+    "description": "Compact accessory99 for all your needs.",
+    "price": 776,
+    "units": 37,
+    "vendorID": "vendor8",
+    "image": "/image8.jpeg",
+    "tags": [
+      "premium",
+      "exclusive"
+    ]
+  },
+  {
+    "itemID": "item100",
+    "name": "Instrument100",
+    "description": "Eco-friendly instrument100 for all your needs.",
+    "price": 592,
+    "units": 87,
+    "vendorID": "vendor7",
+    "image": "/image12.jpeg",
+    "tags": [
+      "tech",
+      "home"
+    ]
+  }
+]

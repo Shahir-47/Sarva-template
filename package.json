@@ -1,0 +1,44 @@
+{
+	"name": "dezi-bazaar",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev --turbopack",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint",
+		"seed-inventory": "ts-node scripts/seed-inventory.ts"
+	},
+	"dependencies": {
+		"@emailjs/browser": "^4.4.1",
+		"@material-tailwind/react": "^2.1.10",
+		"@stripe/react-stripe-js": "^3.7.0",
+		"@stripe/stripe-js": "^7.3.0",
+		"@vercel/analytics": "^1.5.0",
+		"firebase": "^11.6.1",
+		"lucide-react": "^0.503.0",
+		"next": "15.3.1",
+		"react": "^19.0.0",
+		"react-dom": "^19.0.0",
+		"react-firebase-hooks": "^5.1.1",
+		"react-highlight-words": "^0.21.0",
+		"recharts": "^2.15.3",
+		"stripe": "^18.1.0"
+	},
+	"devDependencies": {
+		"@eslint/eslintrc": "^3",
+		"@faker-js/faker": "^9.7.0",
+		"@tailwindcss/postcss": "^4",
+		"@types/node": "^20.17.32",
+		"@types/react": "^19",
+		"@types/react-dom": "^19",
+		"@types/react-highlight-words": "^0.20.0",
+		"axios": "^1.9.0",
+		"eslint": "^9",
+		"eslint-config-next": "15.3.1",
+		"firebase-admin": "^13.3.0",
+		"tailwindcss": "^4",
+		"ts-node": "^10.9.2",
+		"typescript": "^5.8.3"
+	}
+}
