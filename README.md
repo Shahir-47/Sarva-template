@@ -3,16 +3,17 @@
 Welcome to the open template of the Sarva Bazaar delivery app!  
 This repo showcases the architecture, features, and sample code for Sarva, a real-world, full-stack grocery delivery platform for South Asian markets.
 
-**Note:**  
-This is a public template repo provided for demonstration, review, and learning. The live production app at [https://www.sarvabazaar.com](https://www.sarvabazaar.com) runs on a private codebase to ensure operational security.  
-You are free to explore, clone, and adapt this template. The source code for the actual deployed platform is not public.
+> ⚠️ **Note:**
+>  
+>This is a public template repo provided for demonstration, review, and learning. The live production app at [https://www.sarvabazaar.com](https://www.sarvabazaar.com) runs on a private codebase to ensure operational security.  
+>You are free to explore, clone, and adapt this template. The source code for the actual deployed platform is not public.
 
 ---
 
 ## 🚀 Live Deployment
 
 Try the production version here: [https://www.sarvabazaar.com](https://www.sarvabazaar.com)  
-_Source code for the deployed app is private_
+>_Source code for the deployed app is private_
 
 ---
 
